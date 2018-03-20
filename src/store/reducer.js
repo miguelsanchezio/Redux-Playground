@@ -6,4 +6,4 @@ const reducer = (state = initialState, action) => {
   return state;
 }
 
-export default Reducer;
+export default reducer;
